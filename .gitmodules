@@ -1,0 +1,3 @@
+[submodule "libraries/example-basic"]
+	path = libraries/example-basic
+	url = https://github.com/githubteacher/example-basic.git
